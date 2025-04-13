@@ -4,7 +4,7 @@ import json
 import platform
 import sys
 
-from code import test_simple_types, test_complex_structures, test_circular_references, test_numpy_special_values, \
+from tests import test_simple_types, test_complex_structures, test_circular_references, test_numpy_special_values, \
     test_floating_point_precision
 
 
